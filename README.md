@@ -1,4 +1,7 @@
 # MS Enage 2022 Face Recognition Attendance System
+#### This project is made under Microsoft Engage 2022 Program
+
+
 ## Login Window 
 
 ![Screenshot 2022-05-28 181622](https://user-images.githubusercontent.com/89255668/170838702-570a1e9b-a194-43cb-98b6-95ed8a69634a.jpg)
@@ -28,7 +31,18 @@
 ## Video Link
 
 #### *The video demo of my project is here*
-https://drive.google.com/file/d/1VuyhnYuWVLwPdaoHdQzeF3n7sr1Dnrzx/view?usp=sharing
+
+(https://youtu.be/omjgzgBX_v8)
+
 ## Bibliography
+
+https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
+
+https://youtube.com/playlist?list=PLMnmAHlVrrJJ5bzj07Fr-xGOqEMRHzaGX
+
+
+
+
+
 
 
