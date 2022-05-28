@@ -1,8 +1,21 @@
 # MS Enage 2022 Face Recognition Attendance System
-#### This project is made under Microsoft Engage 2022 Program
+  #### This project is made under Microsoft Engage 2022 Program.
+  ####    Attendance Tool via Face Recognition is a Python Tkinter GUI based Opencv Project which stores variety of details of students and records their attendance on real time basis in a CSV file directly.Use of Haarcascade Classifier and LBPH Algorithm is used to capture,train,detect and recognize the images.
+       
+## Features Of the Project
 
+####  → The login verification at the start of the project.
+####  → The saving of details data in mysql database directly.
+####  → The images are saved in a separate folder.
+####  → Reset the data option available.
+####  → Training of data is fast.
+####  → The attendance record can be imported and exported in CSV format.
+####  → Reset of attendance possible
 
+## ============= Brief Description of all the Pages of the project ================
 ## Login Window 
+
+#### The login window comprises of two entries and three buttons.On entering the mentioned username and password it will direct to the main page.Leaving the fields empty or entering the wrong info will lead to error message.This ensures Authentication of the system
 
 ![Screenshot 2022-05-28 181622](https://user-images.githubusercontent.com/89255668/170838702-570a1e9b-a194-43cb-98b6-95ed8a69634a.jpg)
 
@@ -34,11 +47,33 @@
 
 (https://youtu.be/omjgzgBX_v8)
 
+## Installation Commands Required
+
+     pip install PIL
+     pip install mysql-connector-python
+     pip uninstall opencv-python
+     pip3 install opencv-contrib-python
+     pip install numpy
+     
+## Instructions to run
+
+  1) Clone the repository
+  2) Install Python 3
+  3) Run the installation commands
+  4) Login details: Username="Ananyaa" ; Password ="Test@12"
+  5) Mysql details: host = "localhost" ; username="root" ; password = "Sanskrit@12" ;
+
 ## Bibliography
 
-https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
+### LBPH ALGORITHM : https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
+### Haarcascade Classifier : https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
 
-https://youtube.com/playlist?list=PLMnmAHlVrrJJ5bzj07Fr-xGOqEMRHzaGX
+## Scope of the Project
+
+###  Incorporate the New User Register Page
+###  Add additional feature of chatbox on helpdesk button
+###  Work on Update and Search button on Details Page
+  
 
 
 
