@@ -230,21 +230,6 @@ class Attendance:
         self.var_time.set("")
         self.var_attend_status.set("")
 
-
-
-        
-
-
-            
-
-
-        
-
-
-        
-
-        
-
 if __name__ == "__main__":
     root=Tk()
     obj=Attendance(root)
