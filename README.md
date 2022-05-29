@@ -128,7 +128,7 @@
 #### Details of developer.
 ![Screenshot 2022-05-27 051749](https://user-images.githubusercontent.com/89255668/170838801-eedc6278-637e-46ed-a5b9-0a2457f32f82.jpg)
 
-## Video Link
+## Video Demo Of the project
 
 ### The *video demo* of my project is [here](https://youtu.be/omjgzgBX_v8)
 
