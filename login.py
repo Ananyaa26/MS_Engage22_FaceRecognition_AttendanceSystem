@@ -45,15 +45,15 @@ class Login_Window:
         username_lbl=Label(login_frame,text="Username",font=("sans-serif",14,"italic","bold"),bg="White",fg="black")
         username_lbl.place(x=15,y=140)
 
-        user_entry =ttk.Entry(login_frame,width=13,font=("sans-serif",11,"bold"))
-        user_entry.place(x=15,y=170,width=300,height=35)
+        self.user_entry =ttk.Entry(login_frame,width=13,font=("sans-serif",11,"bold"))
+        self.user_entry.place(x=15,y=170,width=300,height=35)
 
 #===========Password========
         Password_lbl=Label(login_frame,text="Password",font=("sans-serif",14,"italic","bold"),bg="White",fg="black")
         Password_lbl.place(x=15,y=220)
 
-        password_entry =ttk.Entry(login_frame,width=13,font=("sans-serif",11,"bold"))
-        password_entry.place(x=15,y=250,width=300,height=35)
+        self.password_entry =ttk.Entry(login_frame,width=13,font=("sans-serif",11,"bold"))
+        self.password_entry.place(x=15,y=250,width=300,height=35)
 
 #=========LOGIN BUTTON===========
 
