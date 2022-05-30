@@ -16,7 +16,7 @@
   ####  → Developer Page
 
 
-## =============== Brief Description of all the Pages===================
+## ==========Brief Description of all the Pages=============
 ## Login Window 
 
 #### The login window comprises of two entries and three buttons.
