@@ -148,7 +148,7 @@
   4) Login details: Username="Ananyaa" ; Password ="Test@12"
   5) Create a mysql schema name = "face_recognizer" and table name="details"
   6) The various column names are-dep,Course,Year,Semester,ID,Enrollment,Name,Gender,Phone,Email,DOB,Photo
-  7) Mysql details: host = "localhost" ; username="root" ; password = "Sanskrit@12" ; database = "face_recognizer";
+
 
 ## Resources 
 
